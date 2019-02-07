@@ -3,3 +3,7 @@ In order to get access to the data from the application, please request access t
 Go to https://www.lissdata.nl/access-data fill out the statement, the data I used is from project "90 Weighing Project". 
 
 The SEMA package I used/developed is in the SEMA repository. 
+
+The "parallel simulation study psychometrika.R" file runs the simulation study presented in the paper 
+The "weegschaalsim_revision.R" runs the application study.  
+The "simulation functions.R" is required for the previous two files and contains all the functions needed to run the study. 
